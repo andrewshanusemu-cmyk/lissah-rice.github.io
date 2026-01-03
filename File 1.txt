@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lissah Premium Rice | Zomba City</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+    <h1>Lissah Premium Rice</h1>
+    <p>Quality Rice Supplier – Zomba City</p>
+</header>
+
+<nav>
+    <a href="#about">About</a>
+    <a href="#products">Rice Varieties</a>
+    <a href="#contact">Contact</a>
+</nav>
+
+<section id="about">
+    <h2>About Us</h2>
+    <p>
+        Lissah Premium Rice is a small business based in Zomba City, supplying
+        high-quality rice varieties to households, shops, and institutions.
+        We focus on freshness, quality, and fair pricing.
+    </p>
+</section>
+
+<section id="products">
+    <h2>Our Rice Varieties</h2>
+
+    <div class="product">
+        <h3>Kilombero (Amanda)</h3>
+        <p class="price">K4,500 per kg</p>
+        <a class="order-btn" href="https://wa.me/265XXXXXXXXX" target="_blank">Order on WhatsApp</a>
+    </div>
+
+    <div class="product">
+        <h3>Super Faya</h3>
+        <p class="price">Available – Contact for price</p>
+        <a class="order-btn" href="https://wa.me/265XXXXXXXXX" target="_blank">Order on WhatsApp</a>
+    </div>
+
+    <div class="product">
+        <h3>Changu</h3>
+        <p class="price">Available – Contact for price</p>
+        <a class="order-btn" href="https://wa.me/265XXXXXXXXX" target="_blank">Order on WhatsApp</a>
+    </div>
+
+    <div class="product">
+        <h3>Taichuni</h3>
+        <p class="price">Available – Contact for price</p>
+        <a class="order-btn" href="https://wa.me/265XXXXXXXXX" target="_blank">Order on WhatsApp</a>
+    </div>
+
+    <div class="product">
+        <h3>Pusa</h3>
+        <p class="price">Available – Contact for price</p>
+        <a class="order-btn" href="https://wa.me/265XXXXXXXXX" target="_blank">Order on WhatsApp</a>
+    </div>
+</section>
+
+<section id="contact">
+    <h2>Contact Us</h2>
+    <p><strong>Location:</strong> Zomba City</p>
+    <p><strong>Phone / WhatsApp:</strong> +265 XXXXXXXXX</p>
+    <p>Call or WhatsApp us to place your order.</p>
+</section>
+
+<footer>
+    <p>&copy; 2026 Lissah Premium Rice. All rights reserved.</p>
+</footer>
+
+</body>
+</html>
